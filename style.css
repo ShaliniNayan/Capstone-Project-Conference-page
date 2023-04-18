@@ -2,69 +2,115 @@
 
 html,
 body {
-  width: 100%;
-  height: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
   font-family: "Lato", sans-serif;
+}
+
+.top-page {
+  /* width: 100%; */
+  height: 100%;
+  /* overflow-x: hidden; */
+  background: url(Images/BG1.jpg);
+  /* display: flex; */
+  /* justify-content: center; */
+  padding-left: 150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  
+}
+
+.navi-top {
+  list-style: none;
+  display: flex;
+  column-gap: 15px;
+}
+
+.top-menu {
+  display: flex;
+  padding: 5px 100px;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  justify-content: right;
+  color: #ffffff;
+  background-color: #3e3e3e;
+  cursor: pointer;
+}
+
+.paragraph {
+  display: flex;
+  /* justify-content: center; */
+  color: #ec4327;
+  padding-left: 150px;
+  /* background-image: url(Images/BG3.jpg); */
+}
+
+.hamburger-menu {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  padding: 0;
 }
 
 .main-navbar {
   width: 100%;
 }
 
-.header-main {
+/* .header-main {
   width: 100%;
-}
+} */
+
 /* Header */
+/* Side-Menu */
+.menu-button {
+  top: 20px;
+  left: 20px;
+  /* width: 26px; */
+  /* height: 26px; */
+  cursor: pointer;
+}
+
 #logo-main {
-  width: 100%;
+  /* width: 100%; */
   display: flex;
   justify-content: left;
 }
 
 #logo {
-  height: 40px;
-  position: relative;
+  height: 200px;
   top: 5px;
   bottom: 5px;
 }
-/* Side-Menu */
-.menu-button {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  width: 26px;
-  height: 26px;
-  cursor: pointer;
-  z-index: 2;
-}
 
-.menu-box {
-  display: block;
-  position: fixed;
-  top: 0;
-  left: 100%;
-  z-index: 1;
-  width: 100%;
-  height: 150%;
-  margin: 0;
-  padding: 180px 0;
+.menu {
+  display: flex;
   list-style: none;
   background-color: #ffffff;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
   transition: 0.15s;
+  justify-content: right;
+  align-items: center;
 }
 
 .menu-item {
-  display: block;
-  padding: 12px 24px;
+  display: flex;
+  padding: 5px 30px;
   color: #f07f7e;
   font-family: "Lato", sans-serif;
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 500;
   text-decoration: none;
-  transition-duration: 0.2s;
-  margin-left: 63px;
+  /* transition-duration: 0.2s;
+  margin-left: 63px; */
+}
+
+#campaign {
+  color: #ec4327;
+  border: 5px solid #ec4327;
+  cursor: pointer;
+  margin-right: 100px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
 }
