@@ -25,7 +25,7 @@
 
 # 📖 [Capstone-Project-Conference] <a name="about-project"></a>
 
-**[Capstone-Project-Conference]** Is a simple project that compounds of a webpage (home and about page) for a fictional sports event conference set to take place in Delhi, India and basically it contains information about the conference ie speakers,program and about the organisation behind the whole meeting.Here is a brief video of how it looks on both the desktop and mobile. https://www.loom.com/
+**[Capstone-Project-Conference]** Is a simple project that compounds of a webpage (home and about page) for a fictional sports event conference set to take place in Delhi, India and basically it contains information about the conference ie speakers,program and about the organisation behind the whole meeting.Here is a brief video of how it looks on both the desktop and mobile. https://www.loom.com/share/4c80a71dd58142cf8a60f4ca1c6ed26d
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://shalininayan.github.io/Capstone-Project-Conference-page/)
 
 <!-- GETTING STARTED -->
 
@@ -63,7 +63,7 @@ Clone this repository to your desired folder:
 
 Navigate to the directory where you want to clone this project with your terminal.
 Clone this repository using the following commands:
-`git clone https://`
+`git clone  https://shalininayan.github.io/Capstone-Project-Conference-page/`
 
 ### Install
 
