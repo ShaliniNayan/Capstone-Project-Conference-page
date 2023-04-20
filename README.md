@@ -1,6 +1,5 @@
 # Capstone-Project-Conference
 
-# Capstone-Project-Conference
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -24,13 +23,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [cars-capstone] <a name="about-project"></a>
+# 📖 [Capstone-Project-Conference] <a name="about-project"></a>
 
-**[cars-capstone]** Is a simple project that compounds of a webpage (home and about page) for a fictional . https://www.loom.com/
+**[Capstone-Project-Conference]** Is a simple project that compounds of a webpage (home and about page) for a fictional sports event conference set to take place in Delhi, India and basically it contains information about the conference ie speakers,program and about the organisation behind the whole meeting.Here is a brief video of how it looks on both the desktop and mobile. https://www.loom.com/
 
 ## 🛠 Built With <a name="built-with"></a>
+
 - HTML.
 - CSS.
+
 ### Key Features <a name="key-features"></a>
 
 - **[mobile version]**
@@ -46,27 +47,28 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+
 In order to run this project you need:
+
 - vscode.
 - git.
 - Knowledge on HTML and CSS.
 
 ### Setup
+
 Clone this repository to your desired folder:
 
-Navigate to the  directory where you  want to clone this project with your terminal.
+Navigate to the directory where you want to clone this project with your terminal.
 Clone this repository using the following commands:
 `git clone https://`
 
-
 ### Install
+
 Install this project with this command in your terminal:
 `cd Capstone-Project-Conference`
-
 
 ### Usage
 
@@ -83,7 +85,6 @@ Run it in your local server.
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Shalini Nayan**
 
 - GitHub: [@ShaliniNayan](https://github.com/ShaliniNayan)
@@ -95,10 +96,10 @@ Run it in your local server.
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Creating and linking consequent pages namely:
-   - Sponser
-   - Join
-   - News
-   - campaign
+  - Sponser
+  - Join
+  - News
+  - campaign
 - Adding animations to the site so that the site is more engaging.
 
 <!-- CONTRIBUTING -->
@@ -127,6 +128,5 @@ Run it in your local server.
 ## 📝 License <a name="license"></a>
 
 - This project is [MIT](./LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
